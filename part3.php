@@ -4,7 +4,7 @@ $fruits に配列で好きなフルーツを5個代入し、foreach文で順番�
 */
 $fruits = array("Apple", "Orange", "Cherry", "Lemon", "Banana");
 
-foreach($fruits as $fruits){
+foreach($fruits as $fruit){
     echo $fruits;
     echo "\n";
 }
